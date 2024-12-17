@@ -571,14 +571,8 @@ video {
   background-color: rgb(0 128 0 / var(--tw-bg-opacity, 1));
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
-}
-
-.text-6xl {
-  font-size: 3.75rem;
-  line-height: 1;
+.font-great-vibes {
+  font-family: "Great Vibes", cursive;
 }
 
 .text-8xl {
@@ -588,6 +582,10 @@ video {
 
 .font-bold {
   font-weight: 700;
+}
+
+.font-black {
+  font-weight: 900;
 }
 
 .text-christmas-red {
